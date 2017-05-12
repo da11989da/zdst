@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.1.235:5555/user/downloadFile?fileName=/ipa/wuhai.ipa</string>
+					<string>http://192.168.1.235:5555/wuhai/v1/user/downloadFile?fileName=/springUpload/ipa/wuhai.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
