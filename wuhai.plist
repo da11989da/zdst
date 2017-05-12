@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://218.21.241.89/download/image.57X57.jpg</string>
+					<string>http://192.168.1.235:5555/wuhai/v1/user/downloadFile?fileName=/springUpload/ipa/image.57X57.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://218.21.241.89/download/image.512X512.jpg</string>
+					<string>http://192.168.1.235:5555/wuhai/v1/user/downloadFile?fileName=/springUpload/ipa/image.512X512.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
