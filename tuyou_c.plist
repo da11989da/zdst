@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://47.92.127.86/zdst_ifcp_web/download/tuyou_b2last.ipa</string>
+					<string>http://47.92.127.86:8180/zdst_ifcp_web/download/tuyou_b2last.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://47.92.127.86/zdst_ifcp_web/download/image.57X57.jpg</string>
+					<string>http://47.92.127.86:8180/zdst_ifcp_web/download/image.57X57.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://47.92.127.86/zdst_ifcp_web/download/image.512X512.jpg</string>
+					<string>http://47.92.127.86:8180/zdst_ifcp_web/download/image.512X512.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
