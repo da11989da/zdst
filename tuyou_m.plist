@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://47.92.127.86/apkversion/tuyou_a2last.ipa</string>
+					<string>http://47.92.127.86/zdst_ifcp_web/download/tuyou_a2last.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://47.92.127.86/apkversion/image.57X57.jpg</string>
+					<string>http://47.92.127.86/zdst_ifcp_web/download/image.57X57.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://47.92.127.86/apkversion/image.512X512.jpg</string>
+					<string>http://47.92.127.86/zdst_ifcp_web/download/image.512X512.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.zds-t.TuYouFire</string>
 				<key>bundle-version</key>
-				<string>V001R001C001B001D002</string>
+				<string>V001R001C001B001D001</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
