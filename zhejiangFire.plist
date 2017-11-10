@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.zds-t.com</string>
+				<string>com.zds-t.zhejiangFire</string>
 				<key>bundle-version</key>
 				<string>V001R001C001B001D001</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>企业消防</string>
+				<string>浙江消防信息管理</string>
 			</dict>
 		</dict>
 	</array>
