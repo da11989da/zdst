@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://115.239.253.145:8680/apkversion/zhejiangFire.ipa</string>
+					<string>http://115.239.253.145/apkversion/zhejiangFire.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://115.239.253.145:8680/apkversion/image.57X57.jpg</string>
+					<string>http://115.239.253.145/apkversion/image.57X57.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://115.239.253.145:8680/apkversion/image.512X512.jpg</string>
+					<string>http://115.239.253.145/apkversion/image.512X512.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
